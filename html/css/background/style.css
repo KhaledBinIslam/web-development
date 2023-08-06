@@ -1,0 +1,32 @@
+body{
+    background-image: url("theme4.jpg");
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
+}
+h1{
+    border-style:ridge;
+
+}
+
+p{
+    cursor: zoom-out;
+    font-variant:inherit;
+}
+
+div img{
+    width: 30%;
+    height: 30%;
+    filter: blur(7px);
+}
+.overflow{
+    height: 300px;
+    width: 300px;
+    overflow: auto;
+    margin: 10px 20px 20px 20px;
+    position: relative;
+}
+
